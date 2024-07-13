@@ -1,1 +1,1 @@
-# pratik365pvc-Food-Ordering-Website-GUI
+# Food-Ordering-Website-GUI
